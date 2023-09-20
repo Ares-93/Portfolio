@@ -1,0 +1,37 @@
+name{
+    color: crimson;
+}
+body{
+    background-color:white;
+    font-family: sans-serif;
+    font-style: italic;
+    line-height: 26px;
+    
+}
+
+.content{
+    width: 50%;
+    float: left;
+    height: auto;
+    margin:auto
+}
+
+.Button{
+    color: wheat;
+    font-weight: bold;
+    background-color: crimson;
+    padding: 10px 45px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+goal{
+    color: crimson;
+}
+
+.experience{
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    display: inline-block;
+}
