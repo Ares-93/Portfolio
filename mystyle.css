@@ -2,10 +2,11 @@ name{
     color: crimson;
 }
 body{
-    background-color:white;
+    background-color:black;
     font-family: sans-serif;
     font-style: italic;
     line-height: 26px;
+    color: white;
     
 }
 
@@ -30,8 +31,17 @@ goal{
 }
 
 .experience{
+  
     width: 100%;
     height: auto;
     margin: 20px;
     display: inline-block;
 }
+
+.content2{
+    width: 50%;
+    float: left;
+    height: auto;
+    margin:auto
+}
+
